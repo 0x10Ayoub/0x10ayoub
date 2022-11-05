@@ -51,3 +51,4 @@ https://anilist.co/ clone using React and tailwind
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x10ayoub&show_icons=true&theme=default)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x10ayoub&layout=compact)](#)
