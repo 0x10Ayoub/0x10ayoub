@@ -35,11 +35,10 @@ looking for a remote job .
 
 ### I’m currently working on
 https://anilist.co/ clone using React and tailwind         
-<br/> 
 
 ### Interested to learn        
 
-<img  alt="Next" width="30px" bgcolor="#f1f1f1" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img  align="left" alt="Next" width="40px" bgcolor="#f1f1f1" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
