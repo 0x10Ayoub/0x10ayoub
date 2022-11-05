@@ -33,12 +33,13 @@ looking for a remote job .
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />          
 <br/>          
 
-### I’m currently working on
+
+### 🔨 I’m currently working on
 https://anilist.co/ clone using React and tailwind         
 
-### Interested to learn        
+### 🌱 Interested to learn        
 
-<img  align="left" alt="Next" width="40px" bgcolor="#f1f1f1" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img  align="left" alt="Next" width="40px" bgcolor="white" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
