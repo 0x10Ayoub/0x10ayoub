@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Ayoub khourbach,I'm software engineer student at 1337FIL , game developer in my privous life 😄.
+looking for a remote job .
+---
+### Langues and Tools
+
+  
