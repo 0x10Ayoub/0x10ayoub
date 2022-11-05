@@ -33,17 +33,25 @@ looking for a remote job .
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />          
-          
+<br/>          
+
 ### I’m currently working on
 https://anilist.co/ clone using React and tailwind         
 
+<br/> 
+
 ### Interested to learn        
+
+<br/>
 
 <img align="left" alt="Next" width="30px" style="padding-right:10px;background-color:#f1f1f1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
----
+<br/> 
+
+#
+
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x10ayoub&show_icons=true&theme=default)
