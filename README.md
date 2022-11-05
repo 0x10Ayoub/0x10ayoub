@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Ayoub khourbach,I'm software engineer student at 1337FIL , game developer in my previous life 😄.
-looking for a remote job .
+looking for a remote job as Front end engineer 
 
 ---
 
