@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Ayoub khourbach,I'm software engineer student at 1337FIL , game developer in my previous life 😄.
-looking for a remote job as Front end engineer 
+Front-end engineer at @obytes
 
 ---
 
@@ -16,11 +16,7 @@ looking for a remote job as Front end engineer
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />          
-<br/>          
-
-
-### 🔨 I’m currently working on
-https://anilist.co/ clone using React and tailwind         
+<br/>               
 
 ### 🌱 Interested to learn        
 
