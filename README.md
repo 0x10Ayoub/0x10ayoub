@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I was game developer in my previous life 😄.
+I was a game developer in my previous life 😄.
 Front-end engineer at @obytes
 
 ---
