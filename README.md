@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ayoub khourbach, game developer in my previous life 😄.
+I was game developer in my previous life 😄.
 Front-end engineer at @obytes
 
 ---
