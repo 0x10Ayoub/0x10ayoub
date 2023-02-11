@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I was a game developer in my previous life 😄.
-Front-end engineer at @obytes
+Now Front-end engineer at @obytes
 
 ---
 
